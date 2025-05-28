@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Upoma</h1>
+<h1 align="center">Hi 👋, I'm Mabia</h1>
 <h3 align="center">A passionate beginner web developer from Bangladesh 🇧🇩</h3>
 
 🌱 I’m currently learning **HTML, CSS, JavaScript**  
